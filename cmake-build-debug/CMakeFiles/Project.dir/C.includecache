@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/apple/Desktop/CS/C基础与算法/Project/main.c
+stdio.h
+-
+memory.h
+-
+stdlib.h
+/Users/apple/Desktop/CS/C基础与算法/Project/stdlib.h
+
